@@ -83,3 +83,11 @@ To get the data and build the 'Bar', 'Bubble', and 'Guage' charts.
 Select an individual sample from the dropdown menu to explore its data. The dashboard will automatically update the visualizations with the selected sample's data.
 
 
+### 8 Deployment
+
+This dashboard is deployed on [GitHub Pages](https://github.com/mairasyed/belly-button-challenge.git)
+
+
+## Author
+
+## [Maira Syed GitHub](https://github.com/mairasyed)
