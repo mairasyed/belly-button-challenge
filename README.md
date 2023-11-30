@@ -85,7 +85,7 @@ Select an individual sample from the dropdown menu to explore its data. The dash
 
 ### 8 Deployment
 
-This dashboard is deployed on [GitHub Pages](https://github.com/mairasyed/belly-button-challenge.git)
+This dashboard is deployed on [GitHub Pages](https://mairasyed.github.io/belly-button-challenge/)
 
 
 ## Author
